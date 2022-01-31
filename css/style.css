@@ -7223,7 +7223,7 @@ a {
   }
 
   .navbar {
-    padding: 8px 4%;
+    padding:14px;
   }
 
   .button {
@@ -7732,6 +7732,7 @@ a {
 
   .navbar-logo {
     max-width: 100%;
+    width: 80px;
   }
 
   .home-link {
