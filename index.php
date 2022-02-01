@@ -3,28 +3,25 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Jafna</title>
+    <title> جفنة مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل .</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:type" content="website" />
     <meta content="summary_large_image" name="twitter:card" />
     <meta content="Webflow" name="generator" />
     <meta
-        content="Publication template, including podcast and eCommerce for donation, for blockchain &amp; fintech enthusiasts."
+        content="مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل . هدفنا محاربة الفساد و التفاهة و نشر العلم و الفائدة ما وفقنا الله"
         name="description" />
-    <meta content="BlockTalk - Webflow Ecommerce website template" property="og:title" />
+    <meta content=" جفنة| مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل" property="og:title" />
     <meta
-        content="Publication template, including podcast and eCommerce for donation, for blockchain &amp; fintech enthusiasts."
+        content="مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل . هدفنا محاربة الفساد و التفاهة و نشر العلم و الفائدة ما وفقنا الله"
         property="og:description" />
     <meta
         content="https://assets.website-files.com/60ebe0c311556d49bb498885/60f0026cd588d3a543b24ec4_BlockTalk%20Open%20Graph%20.jpg"
         property="og:image" />
-    <meta content="BlockTalk - Webflow Ecommerce website template" property="twitter:title" />
+    <meta content=" جفنة| مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل" property="twitter:title" />
     <meta
-        content="Publication template, including podcast and eCommerce for donation, for blockchain &amp; fintech enthusiasts."
+        content="مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل . هدفنا محاربة الفساد و التفاهة و نشر العلم و الفائدة ما وفقنا الله"
         property="twitter:description" />
-    <meta
-        content="https://assets.website-files.com/60ebe0c311556d49bb498885/60f0026cd588d3a543b24ec4_BlockTalk%20Open%20Graph%20.jpg"
-        property="twitter:image" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link rel="apple-touch-icon" sizes="180x180" href="content/icons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="content/icons/favicon-32x32.png">
@@ -35,7 +32,6 @@
     <meta name="application-name" content="جفنة">
     <meta name="msapplication-TileColor" content="#191d28">
     <meta name="theme-color" content="#191d28">
-
 </head>
 
 <body>
