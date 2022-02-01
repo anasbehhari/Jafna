@@ -4,6 +4,9 @@
 <head>
     <meta charset="utf-8" />
     <title>Jafna</title>
+    <meta property="og:type" content="website" />
+    <meta content="summary_large_image" name="twitter:card" />
+    <meta content="Webflow" name="generator" />
     <meta
         content="Publication template, including podcast and eCommerce for donation, for blockchain &amp; fintech enthusiasts."
         name="description" />
@@ -21,14 +24,17 @@
     <meta
         content="https://assets.website-files.com/60ebe0c311556d49bb498885/60f0026cd588d3a543b24ec4_BlockTalk%20Open%20Graph%20.jpg"
         property="twitter:image" />
-    <meta property="og:type" content="website" />
-    <meta content="summary_large_image" name="twitter:card" />
-    <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <meta content="Webflow" name="generator" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/style.css" rel="stylesheet" type="text/css" />
-
-    <link href="https://assets.website-files.com/img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-    <link href="https://assets.website-files.com/img/webclip.png" rel="apple-touch-icon" />
+    <link rel="apple-touch-icon" sizes="180x180" href="content/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="content/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="content/icons/favicon-16x16.png">
+    <link rel="manifest" href="content/icons/site.webmanifest">
+    <link rel="mask-icon" href="content/icons/safari-pinned-tab.svg" color="#191d28">
+    <meta name="apple-mobile-web-app-title" content="جفنة">
+    <meta name="application-name" content="جفنة">
+    <meta name="msapplication-TileColor" content="#191d28">
+    <meta name="theme-color" content="#191d28">
 
 </head>
 
@@ -48,42 +54,46 @@
             <div class="container categories-sticky">
                 <div class="w-dyn-list">
                     <div role="list" class="categories-navbar-collection-list w-dyn-items">
-                    <div role="listitem" class="category-navbar-collection-item w-dyn-item">
-                                <a href="media-category/news.html" class="link categories w-inline-block">
-                                    <div class="nav-link-text">رياضة</div>
-                                </a>
+                        <div role="listitem" class="category-navbar-collection-item w-dyn-item">
+                            <a href="media-category/news.html" class="link categories w-inline-block">
+                                <div class="nav-link-text">رياضة</div>
+                            </a>
 
                         </div>
-                            <div role="listitem" class="category-navbar-collection-item w-dyn-item">
-                                <a href="media-category/news.html" class="link categories w-inline-block">
-                                    <div class="nav-link-text">سياسة</div>
-                                </a>
+                        <div role="listitem" class="category-navbar-collection-item w-dyn-item">
+                            <a href="media-category/news.html" class="link categories w-inline-block">
+                                <div class="nav-link-text">سياسة</div>
+                            </a>
 
-                            </div>
-                            <div role="listitem" class="category-navbar-collection-item w-dyn-item">
-                                <a href="media-category/wallets.html" class="link categories w-inline-block">
-                                    <div class="nav-link-text">دين</div>
-                                </a>
+                        </div>
+                        <div role="listitem" class="category-navbar-collection-item w-dyn-item">
+                            <a href="media-category/wallets.html" class="link categories w-inline-block">
+                                <div class="nav-link-text">دين</div>
+                            </a>
 
-                            </div>
-                            <div role="listitem" class="category-navbar-collection-item w-dyn-item">
-                                <a href="media-category/mining" class="link categories w-inline-block">
-                                    <div class="nav-link-text">تعليقات الفيسبوك</div>
-                                </a>
+                        </div>
+                        <div role="listitem" class="category-navbar-collection-item w-dyn-item">
+                            <a href="media-category/mining" class="link categories w-inline-block">
+                                <div class="nav-link-text">تعليقات الفيسبوك</div>
+                            </a>
 
-                            </div>
-                            <div role="listitem" class="category-navbar-collection-item w-dyn-item">
-                                <a href="media-category/security.html" class="link categories w-inline-block">
-                                    <div class="nav-link-text">اجتماع</div>
-                                </a>
+                        </div>
+                        <div role="listitem" class="category-navbar-collection-item w-dyn-item">
+                            <a href="media-category/security.html" class="link categories w-inline-block">
+                                <div class="nav-link-text">اجتماع</div>
+                            </a>
 
-                            </div>
-                            <div role="listitem" class="category-navbar-collection-item w-dyn-item">
-                                <a href="media-category/blockchain.html" class="link categories w-inline-block">
-                                    <div class="nav-link-text">علمي</div>
-                                </a>
-
-                            </div>
+                        </div>
+                        <div role="listitem" class="category-navbar-collection-item w-dyn-item">
+                            <a href="media-category/blockchain.html" class="link categories w-inline-block">
+                                <div class="nav-link-text">علمي</div>
+                            </a>
+                        </div>
+                        <div role="listitem" class="category-navbar-collection-item w-dyn-item">
+                            <a href="media-category/blockchain.html" class="link categories w-inline-block">
+                                <div class="nav-link-text">تكنولوجيا </div>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -724,12 +734,12 @@
                 <div class="container categories-sticky">
                     <div class="w-dyn-list">
                         <div role="list" class="categories-navbar-collection-list w-dyn-items">
-                        <div role="listitem" class="category-navbar-collection-item w-dyn-item">
+                            <div role="listitem" class="category-navbar-collection-item w-dyn-item">
                                 <a href="media-category/news.html" class="link categories w-inline-block">
                                     <div class="nav-link-text">رياضة</div>
                                 </a>
 
-                        </div>
+                            </div>
                             <div role="listitem" class="category-navbar-collection-item w-dyn-item">
                                 <a href="media-category/news.html" class="link categories w-inline-block">
                                     <div class="nav-link-text">سياسة</div>
@@ -758,7 +768,11 @@
                                 <a href="media-category/blockchain.html" class="link categories w-inline-block">
                                     <div class="nav-link-text">علمي</div>
                                 </a>
-
+                            </div>
+                            <div role="listitem" class="category-navbar-collection-item w-dyn-item">
+                                <a href="media-category/blockchain.html" class="link categories w-inline-block">
+                                    <div class="nav-link-text">تكنولوجيا </div>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -767,27 +781,7 @@
         </div>
         <?php require 'components/footer.php'; ?>
     </div>
-   <script>
-     window.onscroll = function(ev) {
-    if(window.scrollY==0) {
-        document.querySelector(".navbar").classList.remove("on")
-
-    }
-
-    if(window.scrollY <300 && document.querySelector(".fixed").classList.contains("show")) {
-        document.querySelector(".fixed").classList.remove("show")
-    }    
-    if(window.scrollY >20 && !document.querySelector(".navbar").classList.contains("on")) {
-        document.querySelector(".navbar").classList.add("on")
-    }
-    if(window.scrollY >300 && !document.querySelector(".fixed").classList.contains("show")) {
-        document.querySelector(".fixed").classList.add("show")
-    }
-
-};
-
-
-   </script>
+    <script src="js/app.js"></script>
 </body>
 
 </html>
