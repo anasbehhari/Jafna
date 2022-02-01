@@ -29,7 +29,7 @@
               </a>
             </div>
             <a href="join-us.html" class="button smaller-outlined w-button"
-              >انضم إلينا</a
+              ><span>انضم إلينا</span></a
             >
             <div class="_40px-w-div navbar-w-div"></div>
             <a href="donate.html" class="button navbar-donate w-button"
