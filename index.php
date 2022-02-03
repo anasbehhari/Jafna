@@ -393,9 +393,7 @@
                             </a>
                             <a href="writers/boyd-reinger" class="author-contain centered w-inline-block">
                                 <div class="text-block author-name">Boyd Reinger</div>
-                                <div style="
-                      background-image: url(https://assets.website-files.com/60ebe0c311556d7a40498896/60efd1a757f5a4d908f8c573_karsten-winegeart-kWm6bXPJl4s-unsplash%20.jpg);
-                    " class="author-image"></div>
+                                <div style="" class="author-image"></div>
                             </a>
                         </div>
                         <div role="listitem" class="collection-item w-dyn-item">

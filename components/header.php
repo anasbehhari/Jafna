@@ -2,7 +2,7 @@
         <div class="container navbar-container">
           <div class="left-side-navbar">
             <a
-              href="index.html"
+              href="./"
               aria-current="page"
               class="home-link w-inline-block w--current"
               ><img
@@ -15,24 +15,24 @@
           <div class="right-side-navbar">
             <div class="nav-links-wrapper">
               <a
-                href="index.html"
+                href="./"
                 aria-current="page"
                 class="link w-inline-block w--current"
               >
                 <div class="nav-link-text">الرئيسية</div>
               </a>
-              <a href="media-category/podcast.html" class="link w-inline-block">
+              <a href="/join-us" class="link w-inline-block">
                 <div class="nav-link-text">اتصل بنا</div>
               </a>
-              <a href="/about.html" class="link w-inline-block">
+              <a href="/about" class="link w-inline-block">
                 <div class="nav-link-text">حول الصفحة</div>
               </a>
             </div>
-            <a href="join-us.html" class="button smaller-outlined w-button"
+            <a href="/join-us" class="button smaller-outlined w-button"
               ><span>انضم إلينا</span></a
             >
             <div class="_40px-w-div navbar-w-div"></div>
-            <a href="donate.html" class="button navbar-donate w-button"
+            <a href="/donate" class="button navbar-donate w-button"
               >تبرع الآن للصفحة</a
             >
             <div
@@ -47,17 +47,17 @@
         <div class="mobile-menu">
           <div class="mobile-nav-links">
             <a
-              href="index.html"
+              href="./"
               aria-current="page"
               class="mobile-nav-link w--current"
-              >Home</a
-            ><a href="media-category/podcast.html" class="mobile-nav-link"
-              >Podcast</a
-            ><a href="about" class="mobile-nav-link">About</a
+              >الرئيسية</a
+            ><a href="/join-us" class="mobile-nav-link"
+              >اتصل بنا</a
+            ><a href="/about" class="mobile-nav-link">حول الصفحة</a
             ><a
-              href="donate.html"
+              href="/donate"
               class="button navbar-donate show-on-mobile w-button"
-              >Donate Now</a
+              >تبرع الآن للصفحة</a
             >
           </div>
         </div>
