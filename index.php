@@ -11,14 +11,16 @@
     <meta
         content="مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل . هدفنا محاربة الفساد و التفاهة و نشر العلم و الفائدة ما وفقنا الله"
         name="description" />
-    <meta content=" جفنة| مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل" property="og:title" />
+    <meta content=" جفنة| مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل"
+        property="og:title" />
     <meta
         content="مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل . هدفنا محاربة الفساد و التفاهة و نشر العلم و الفائدة ما وفقنا الله"
         property="og:description" />
     <meta
         content="https://assets.website-files.com/60ebe0c311556d49bb498885/60f0026cd588d3a543b24ec4_BlockTalk%20Open%20Graph%20.jpg"
         property="og:image" />
-    <meta content=" جفنة| مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل" property="twitter:title" />
+    <meta content=" جفنة| مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل"
+        property="twitter:title" />
     <meta
         content="مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل . هدفنا محاربة الفساد و التفاهة و نشر العلم و الفائدة ما وفقنا الله"
         property="twitter:description" />
@@ -99,9 +101,7 @@
                 <div class="w-layout-grid grid">
                     <div id="P0" class="w-dyn-list">
                         <div role="list" class="media-collection-list featured-post w-dyn-items">
-                            <div style="
-                    background-image: url(https://assets.website-files.com/60ebe0c311556d7a40498896/60ef8607639cd0c99bb47cb3_pascal-bernardon-zt0HWquGXlQ-unsplash.jpg);
-                  " role="listitem" class="media-collection-item featured-posts w-dyn-item">
+                            <div role="listitem" class="media-collection-item featured-posts w-dyn-item">
                                 <a href="media/what-nasdaq-thinks-of-bloackchain.html"
                                     class="blog-card-content w-inline-block">
                                     <h4 class="featured-post-heading">
@@ -166,66 +166,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="vertical-content-block">
-                    <div class="vertical-cms-slider w-slider">
-                        <div class="vertical-header-contain">
-                            <h2 class="vertical-header">Weekly Podcast</h2>
-                        </div>
-                        <div class="w-slider-mask">
-                            <div class="w-slide">
-                                <div class="vertical_slider_collection_list_wrapper w-dyn-list">
-                                    <div role="list" class="vertical-slider-collection-list w-dyn-items">
-                                        <div style="
-                          background-image: url(https://assets.website-files.com/60ebe0c311556d7a40498896/60ef89e688f6a6041980c9ef_tech-daily-ioURqxrh3h8-unsplash.jpg);
-                        " role="listitem" class="vertical-slider-collection-item w-dyn-item">
-                                            <a href="media/weekly-podcast-1-0-new-apple-watch-wallet"
-                                                class="vertical-slide-content-contain w-inline-block">
-                                                <div class="vertical-slide-content">
-                                                    <h4 class="white">
-                                                        Weekly Podcast 1.0 - New Apple Watch Wallet
-                                                    </h4>
-                                                </div>
-                                                <div class="overlay"></div>
-                                                <div style="" class="sticker on-article-card">
-                                                    <div style="color: hsla(0, 0%, 100%, 1)">
-                                                        Wallets
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="w-slide">
-                                <div class="vertical_slider_collection_list_wrapper w-dyn-list">
-                                    <div role="list" class="vertical-slider-collection-list w-dyn-items">
-                                        <div style="
-                          background-image: url(https://assets.website-files.com/60ebe0c311556d7a40498896/60ef8a3e57f5a43866f79d2c_pankaj-patel-bYiw48KLbmw-unsplash.jpg);
-                        " role="listitem" class="vertical-slider-collection-item w-dyn-item">
-                                            <a href="media/weekly-podcast-2-0-speaking-with-a-blockchain-engineer.html"
-                                                class="vertical-slide-content-contain w-inline-block">
-                                                <div class="vertical-slide-content">
-                                                    <h4 class="white">
-                                                        Weekly Podcast 2.0 - Speaking With a Blockchain
-                                                        Engineer
-                                                    </h4>
-                                                </div>
-                                                <div class="overlay"></div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="left-arrow-2 w-slider-arrow-left">
-                            <div class="w-icon-slider-left"></div>
-                        </div>
-                        <div class="right-arrow-2 w-slider-arrow-right">
-                            <div class="w-icon-slider-right"></div>
-                        </div>
-                        <div class="slide-nav-2 w-slider-nav w-round"></div>
-                    </div>
-                </div>
+                <?php require "components/ad.php" ?>
                 <div class="category-header">
                     <h2>News</h2>
                     <p><strong>sint occaecat cupidatat non proident</strong></p>

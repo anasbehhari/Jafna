@@ -16,3 +16,9 @@ window.onscroll = function(ev) {
     }
 
 };
+
+let mobile_hamburger  = document.querySelector(".hamburger");
+let mobile_menu = document.querySelector(".mobile-menu");
+mobile_hamburger.onclick = () => {
+mobile_menu.classList.toggle("on");
+}

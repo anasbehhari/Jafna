@@ -21,18 +21,18 @@
               >
                 <div class="nav-link-text">الرئيسية</div>
               </a>
-              <a href="/join-us" class="link w-inline-block">
+              <a href="./join-us" class="link w-inline-block">
                 <div class="nav-link-text">اتصل بنا</div>
               </a>
-              <a href="/about" class="link w-inline-block">
+              <a href="./about" class="link w-inline-block">
                 <div class="nav-link-text">حول الصفحة</div>
               </a>
             </div>
-            <a href="/join-us" class="button smaller-outlined w-button"
+            <a href="./join-us" class="button smaller-outlined w-button"
               ><span>انضم إلينا</span></a
             >
             <div class="_40px-w-div navbar-w-div"></div>
-            <a href="/donate" class="button navbar-donate w-button"
+            <a href="./donate" class="button navbar-donate w-button"
               >تبرع الآن للصفحة</a
             >
             <div
@@ -51,11 +51,11 @@
               aria-current="page"
               class="mobile-nav-link w--current"
               >الرئيسية</a
-            ><a href="/join-us" class="mobile-nav-link"
+            ><a href="./join-us" class="mobile-nav-link"
               >اتصل بنا</a
-            ><a href="/about" class="mobile-nav-link">حول الصفحة</a
+            ><a href="./about" class="mobile-nav-link">حول الصفحة</a
             ><a
-              href="/donate"
+              href="./donate"
               class="button navbar-donate show-on-mobile w-button"
               >تبرع الآن للصفحة</a
             >
