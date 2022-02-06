@@ -1,4 +1,4 @@
-<div class="section cta wf-section" style="background-image:url(https://images.pexels.com/photos/479358/pexels-photo-479358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)">
+<div class="section cta wf-section qnsns" style="background-image:url(https://images.pexels.com/photos/479358/pexels-photo-479358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)">
     <div class="container centered">
         <div class="cta-wrap">
             <div class="discord-cta">

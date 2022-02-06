@@ -48,19 +48,17 @@
                     <a href="https://www.reddit.com/" target="_blank" class="social-media-link on-bio w-inline-block">
                         <img src="content/icons/facebook.png" width="25" alt="Facebook Icon" />
                     </a>
-                    <a href="https://www.yahoo.com/" target="_blank"
-                        class="social-media-link on-bio w-inline-block"><img src="content/icons/twitter.png" width="25"
-                            alt="Twitter Icon" />
+                    <a href="https://www.yahoo.com/" target="_blank" class="social-media-link on-bio w-inline-block">
+                        <img src="content/icons/twitter.png" width="25" alt="Twitter Icon" />
                     </a>
                     <a href="https://www.amazon.com/" target="_blank"
-                        class="social-media-link on-bio w-inline-block"><img src="content/icons/instagram.png"
-                            width="25" alt="Instagram Icon" />
+                        class="social-media-link on-bio w-inline-block">
+                        <img src="content/icons/instagram.png"  width="25" alt="Instagram Icon" />
                     </a>
                 </div>
             </div>
         </div>
-        <div style="background-image:url(&quot;https://assets.website-files.com/60ebe0c311556d7a40498896/60efd22a4ae59cbc2d93b7f5_karabo-mdluli-ItjGjVQsE_8-unsplash%20(1).jpg&quot;)"
-            class="writer-image"></div>
+        <div style="background-images: url(https://images.pexels.com/photos/1484794/pexels-photo-1484794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)" class="writer-image"></div>
     </div>
     <div class="section wf-section">
         <div class="container rtl">
@@ -97,12 +95,15 @@
     <div class="section articles-written wf-section">
         <div class="container">
             <div class="flex rtl">
-                <h2>تصفح اكثر التدوينات لأنس زيارة</h2>
+                <h2 class="flex center gns">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="#fff" style="transform:translateY(10px);margin-left:10px" viewBox="0 0 24 24" width="30" height="30"><path fill="none" d="M0 0h24v24H0z"/><path d="M1.181 12C2.121 6.88 6.608 3 12 3c5.392 0 9.878 3.88 10.819 9-.94 5.12-5.427 9-10.819 9-5.392 0-9.878-3.88-10.819-9zM12 17a5 5 0 1 0 0-10 5 5 0 0 0 0 10zm0-2a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/></svg>
+                    تصفح اكثر التدوينات لأنس زيارة 
+                </h2>
             </div>
             <div class="collection-list-wrapper w-dyn-list">
                 <div role="list" class="media-collection-list w-dyn-items">
                     <div role="listitem" class="collection-item w-dyn-item">
-                        <a href="../media/how-blockchain-is-changing-the-economy"
+                        <a href="media/how-blockchain-is-changing-the-economy"
                             class="media-block-wrap-link w-inline-block">
                             <div style="background-image:url('content/images/background.png')"
                                 class="media-block-image">
@@ -122,7 +123,7 @@
                     </div>
 
                     <div role="listitem" class="collection-item w-dyn-item">
-                        <a href="../media/how-blockchain-is-changing-the-economy"
+                        <a href="media/how-blockchain-is-changing-the-economy"
                             class="media-block-wrap-link w-inline-block">
                             <div style="background-image:url('content/images/background.png')"
                                 class="media-block-image">
@@ -141,7 +142,7 @@
                         </a>
                     </div>
                     <div role="listitem" class="collection-item w-dyn-item">
-                        <a href="../media/how-blockchain-is-changing-the-economy"
+                        <a href="media/how-blockchain-is-changing-the-economy"
                             class="media-block-wrap-link w-inline-block">
                             <div style="background-image:url('content/images/background.png')"
                                 class="media-block-image">

@@ -41,10 +41,10 @@
     <?php require 'components/header.php'; ?>
     <div class="mobile-menu">
         <div class="mobile-nav-links">
-            <a href="/" class="mobile-nav-link">Home</a><a href="https://blocktalk.webflow.io/media-category/podcast"
-                class="mobile-nav-link">Podcast</a><a href="/about" aria-current="page"
-                class="mobile-nav-link w--current">About</a><a href="/donate"
-                class="button navbar-donate show-on-mobile w-button">Donate Now</a>
+            <a href="/" class="mobile-nav-link">Home</a>
+            <a href="" class="mobile-nav-link">Podcast</a>
+            <a href="/about" aria-current="page" class="mobile-nav-link w--current">About</a>
+            <a href="/donate" class="button navbar-donate show-on-mobile w-button">Donate Now</a>
         </div>
     </div>
     <div class="section about-us-hero wf-section">
@@ -73,7 +73,7 @@
                         <div class="team-photo"></div>
                     </div>
                     <div class="team-member-name-title">
-                        <h4 class="team-member-name">Josh Simon</h4>
+                        <h4 class="team-member-name">أنس بحاري</h4>
                         <p class="team-member-title">Co-founder + Writer</p>
                         <a href="#" class="link read-bio w-inline-block">
                             <div class="pink-text">Read Bio</div>
@@ -92,22 +92,11 @@
                         </a>
                     </div>
                 </div>
-                <div class="team-member-wrap">
-                    <div class="team-photo-bg _3">
-                        <div class="team-photo _3"></div>
-                    </div>
-                    <div class="team-member-name-title">
-                        <h4 class="team-member-name">Matt Russell</h4>
-                        <p class="team-member-title">Co-Founder + Writer</p>
-                        <a href="#" class="link read-bio w-inline-block">
-                            <div class="pink-text">Read Bio</div>
-                        </a>
-                    </div>
-                </div>
+
             </div>
         </div>
         <div class="absolutee-div-team"></div>
-       
+
     </div>
     <?php require 'components/footer.php'; ?>
     <script src="js/app.js"></script>
