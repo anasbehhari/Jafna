@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-<html data-wf-domain="blocktalk.webflow.io" data-wf-page="60ebe0c311556d6c51498887"
-    data-wf-site="60ebe0c311556d49bb498885">
-
+<html> 
 <head>
     <meta charset="utf-8" />
     <title> جفنة مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل .</title>

@@ -24,6 +24,17 @@
     <meta
         content="مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل . هدفنا محاربة الفساد و التفاهة و نشر العلم و الفائدة ما وفقنا الله"
         property="twitter:description" />
+    <meta name="keywords" content="أخبار, ثقافة, آسيا, تركيا, سوريا, مصر, مملكة متحدة,جفنة,مدونة" data-rh="true">
+    <meta name="source" content="جفنة,مواقع إلكترونية" data-rh="true">
+    <meta name="twitter:title" content="95 عاما على إلغاء الخلافة العثمانية.. كتابات غربية تروي السقوط" data-rh="true">
+    <meta name="twitter:description" content="في السطور التالية نستعرض كتابات مؤرخيْن هما البريطاني يوجين روغان والأميركي شون مكميكين اللذين كتبا عن النهاية العثمانية وميلاد شرق أوسط جديد بعيون غربية." data-rh="true">
+    <meta name="twitter:image:src" content="https://www.aljazeera.net/wp-content/uploads/2019/03/67d27182-32a9-4577-96a5-9833e207dd81.jpeg?resize=1200%2C630" data-rh="true">
+    <meta name="twitter:image:alt" content="95 عاما على إلغاء الخلافة العثمانية.. كتابات غربية تروي السقوط" data-rh="true">
+    <meta name="pageSection" content="أخبار,ثقافة" data-rh="true">
+    <meta name="pageAuthors" content="" data-rh="true">
+    <meta name="pageType" content="Article Page" data-rh="true">    
+    <meta name="taxonomy-tags" content="أخبار, ثقافة" data-rh="true">
+    <meta name="robots" content="max-image-preview:large" data-rh="true">
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link rel="apple-touch-icon" sizes="180x180" href="content/icons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="content/icons/favicon-32x32.png">

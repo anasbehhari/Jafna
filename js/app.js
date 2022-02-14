@@ -16,7 +16,10 @@ window.onscroll = function(ev) {
     }
 
 };
-
+let scrollbar = document.querySelector(".blog-navbar:last-of-type")
+if(scrollbar) {
+    scrollbar.scrollTo(scrollbar.offsetWidth,0)
+}
 let mobile_hamburger  = document.querySelector(".hamburger");
 let mobile_menu = document.querySelector(".mobile-menu");
 mobile_hamburger.onclick = () => {

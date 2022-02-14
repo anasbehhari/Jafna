@@ -80,7 +80,7 @@
                      </select>
                   </div>
                   <div class="form-group"><label for="Your-message" class="form-label">حدثنا عنك قليلا
-                     you...</label><textarea data-name="Your Message" maxlength="5000" id="Your-message"
+                    </label><textarea data-name="Your Message" maxlength="5000" id="Your-message"
                         name="Your-message" class="form-input message w-input" ></textarea>
                   </div>
                   <button class="button-send" name="send">أرسل الآن</button>

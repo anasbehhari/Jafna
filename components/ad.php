@@ -7,9 +7,7 @@
             <div class="w-slide">
                 <div class="vertical_slider_collection_list_wrapper w-dyn-list">
                     <div role="list" class="vertical-slider-collection-list w-dyn-items">
-                        <div style="
-                          background-image: url(./content/images/ad/weblionz.png);
-                        " role="listitem" class="vertical-slider-collection-item w-dyn-item">
+                        <div role="listitem" class="vertical-slider-collection-item w-dyn-item">
                             <a target="_blank" href="https://weblionz.com/"
                                 class="vertical-slide-content-contain w-inline-block">
                                 <div class="vertical-slide-content">
