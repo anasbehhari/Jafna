@@ -2,28 +2,23 @@
 <html> 
 <head>
     <meta charset="utf-8" />
-    <title> جفنة مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل .</title>
+    <meta http-equiv="Content-language" content="ar">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="og:type" content="website" />
-    <meta content="summary_large_image" name="twitter:card" />
-    <meta content="Webflow" name="generator" />
-    <meta
-        content="مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل . هدفنا محاربة الفساد و التفاهة و نشر العلم و الفائدة ما وفقنا الله"
-        name="description" />
-    <meta content=" جفنة| مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل"
-        property="og:title" />
-    <meta
-        content="مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل . هدفنا محاربة الفساد و التفاهة و نشر العلم و الفائدة ما وفقنا الله"
-        property="og:description" />
-    <meta
-        content="https://assets.website-files.com/60ebe0c311556d49bb498885/60f0026cd588d3a543b24ec4_BlockTalk%20Open%20Graph%20.jpg"
-        property="og:image" />
-    <meta content=" جفنة| مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل"
-        property="twitter:title" />
-    <meta
-        content="مدونة تهتم بالمواضيع الإجتماعية,العلمية و التاريخية, تناقَش فيها أحداث المغرب و العالم ككل . هدفنا محاربة الفساد و التفاهة و نشر العلم و الفائدة ما وفقنا الله"
-        property="twitter:description" />
-    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="contact@jofna.com 0631874579" />
+    <title>حول جفنة | جفنة مدونة إلكترونية مغربية</title>
+    <meta property="article:publisher" content="https://www.facebook.com/jofna">
+    <meta property="og:url" content="https://www.jofna.com/join-us">
+    <meta property="og:locale" content="ar_AR">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="حول جفنة | جفنة مدونة إلكترونية مغربية" />
+    <meta property="og:description" content="contact@jofna.com 0631874579">
+    <meta property="og:image" content="../content/images/image.jpg" />
+    <meta property="twitter:title" content="حول جفنة | جفنة مدونة إلكترونية مغربية" />
+    <meta property="twitter:description" content="contact@jofna.com 0631874579" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content="@jofna">
+    <meta name="twitter:site" content="@jofna">
+    <link href="css/join-us.css" rel="stylesheet" type="text/css" />
     <link rel="apple-touch-icon" sizes="180x180" href="content/icons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="content/icons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="content/icons/favicon-16x16.png">
@@ -32,7 +27,7 @@
     <meta name="apple-mobile-web-app-title" content="جفنة">
     <meta name="application-name" content="جفنة">
     <meta name="msapplication-TileColor" content="#191d28">
-    <meta name="theme-color" content="#191d28">
+    <meta name="theme-color" content="#191d28" />
 </head>
 
 <body>
