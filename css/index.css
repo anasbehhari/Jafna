@@ -521,9 +521,9 @@ a:hover {
   z-index: 9999999;
 }
 .blog-navbar.fixed.show {
-    opacity: 1;
-  }
-  
+  opacity: 1;
+}
+
 .left-side-navbar {
   display: -webkit-box;
   display: -webkit-flex;
@@ -674,8 +674,8 @@ a {
   gap: 20px;
 }
 .navbar.on {
-    background-color: #191d28;
-  }
+  background-color: #191d28;
+}
 .blog-card-content {
   position: absolute;
   z-index: 2;
@@ -773,12 +773,16 @@ a {
   position: relative;
   left: 100%;
   transform: translateX(-100%);
+  display: flex;
+  align-items: center;
 }
 .categorie-blogs .posts .post .post-content .author-post img {
   width: 20px;
   height: 20px;
   border-radius: 50%;
   object-fit: cover;
+  transform: translateY(1px);
+  margin-left: 4px;
 }
 .categorie-blogs .posts .post .post-content .author-post span {
   font-size: 12px;
@@ -786,6 +790,13 @@ a {
 .categorie-blogs .posts .post .post-content span {
   color: #fff;
   font-size: 14px;
+  display: flex;
+  align-items: center;
+  
+}
+.categorie-blogs .posts .post .post-content i {
+  margin-top: 2.5px;
+  margin-left: 3px;
 }
 .categorie-blogs .posts .post .post-content h4 {
   width: 93%;
@@ -1046,12 +1057,12 @@ a {
   }
 }
 @media screen and (max-width: 991px) {
-    .blog-navbar.fixed.show {
-        opacity: 1;
-      }
-      .blog-navbar.fixed.show {
-        opacity: 1;
-      }    
+  .blog-navbar.fixed.show {
+    opacity: 1;
+  }
+  .blog-navbar.fixed.show {
+    opacity: 1;
+  }
   h1 {
     font-size: 64px;
     line-height: 74px;
@@ -1659,10 +1670,8 @@ a {
 /*! CSS Used fontfaces */
 @font-face {
   font-family: dinnextarabic;
-  src: url(../content/fonts/DinNextArabic-Regular.woff2)
-      format("woff2"),
-    url(../content/fonts/DinNextArabic-Regular.woff)
-      format("woff");
+  src: url(../content/fonts/DinNextArabic-Regular.woff2) format("woff2"),
+    url(../content/fonts/DinNextArabic-Regular.woff) format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
