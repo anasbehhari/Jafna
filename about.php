@@ -7,18 +7,18 @@
     <meta name="description" content="contact@jofna.com 0631874579" />
     <title>حول جفنة | جفنة مدونة إلكترونية مغربية</title>
     <meta property="article:publisher" content="https://www.facebook.com/jofna">
-    <meta property="og:url" content="https://www.jofna.com/join-us">
+    <meta property="og:url" content="https://www.jofna.com/about">
     <meta property="og:locale" content="ar_AR">
     <meta property="og:type" content="article">
     <meta property="og:title" content="حول جفنة | جفنة مدونة إلكترونية مغربية" />
-    <meta property="og:description" content="contact@jofna.com 0631874579">
+    <meta property="og:description" content="حول جفنة | جفنة مدونة إلكترونية مغربية">
     <meta property="og:image" content="../content/images/image.jpg" />
     <meta property="twitter:title" content="حول جفنة | جفنة مدونة إلكترونية مغربية" />
     <meta property="twitter:description" content="contact@jofna.com 0631874579" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:creator" content="@jofna">
     <meta name="twitter:site" content="@jofna">
-    <link href="css/join-us.css" rel="stylesheet" type="text/css" />
+    <link href="css/about.css" rel="stylesheet" type="text/css" />
     <link rel="apple-touch-icon" sizes="180x180" href="content/icons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="content/icons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="content/icons/favicon-16x16.png">

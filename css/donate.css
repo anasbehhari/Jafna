@@ -1,4 +1,4 @@
-/*! CSS Used from: http://localhost:2001/BehBlog/css/style.css */
+@import url("fonts.css");
 html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-size:15px;}
 body{margin:0;}
 a{background-color:transparent;}
@@ -200,5 +200,3 @@ p{text-align:center;}
 .form-input{padding-right:16px;padding-left:16px;}
 .qnsns{display:none;}
 }
-/*! CSS Used fontfaces */
-@font-face{font-family:dinnextarabic;src:url(http://localhost:2001/BehBlog/content/fonts/DinNextArabic-Regular.woff2) format("woff2"),     url(http://localhost:2001/BehBlog/content/fonts/DinNextArabic-Regular.woff) format("woff");font-weight:400;font-style:normal;font-display:swap;}

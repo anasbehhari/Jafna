@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "remixicon";
+  src: url("../fonts/remixicon.eot"),
+    url("../fonts/remixicon.ttf") format("truetype"),
+    url("../fonts/remixicon.svg") format("svg");
+  font-display: swap;
+}
+
+@font-face {
+    font-family: dinnextarabic;
+    src: url(../content/fonts/DinNextArabic-Regular.woff2) format("woff2"),
+      url(../content/fonts/DinNextArabic-Regular.woff) format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: dinnextarabic-bold;
+    src: url(../content/fonts/DinNextArabic-Bold.woff2) format("woff2"),
+      url(../content/fonts/DinNextArabic-Bold.woff) format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: dinnextarabic-medium;
+    src: url(../content/fonts/DinNextArabic-Medium.woff2) format("woff2"),
+      url(../content/fonts/DinNextArabic-Medium.woff) format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: weathericons-regular;
+    src: url(../content/fonts/weathericons-regular.otf) format("opentype");
+    font-weight: 400;
+    font-style: normal;
+  }

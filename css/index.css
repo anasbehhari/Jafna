@@ -1,3 +1,4 @@
+@import url("fonts.css");
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -1666,20 +1667,4 @@ a {
 }
 .ri-time-line:before {
   content: "\f20f";
-}
-/*! CSS Used fontfaces */
-@font-face {
-  font-family: dinnextarabic;
-  src: url(../content/fonts/DinNextArabic-Regular.woff2) format("woff2"),
-    url(../content/fonts/DinNextArabic-Regular.woff) format("woff");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "remixicon";
-  src: url("../fonts/remixicon.eot"),
-    url("../fonts/remixicon.ttf") format("truetype"),
-    url("../fonts/remixicon.svg") format("svg");
-  font-display: swap;
 }
