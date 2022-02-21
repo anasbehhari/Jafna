@@ -67,25 +67,12 @@
                     </div>
                     <div class="team-member-name-title">
                         <h4 class="team-member-name">أنس بحاري</h4>
-                        <p class="team-member-title">Co-founder + Writer</p>
-                        <a href="#" class="link read-bio w-inline-block">
-                            <div class="pink-text">Read Bio</div>
+                        <p class="team-member-title">مؤسس + مدون</p>
+                        <a href="/writers/anasbehhari" class="link read-bio w-inline-block">
+                            <div class="pink-text">تواصل معه</div>
                         </a>
                     </div>
                 </div>
-                <div class="team-member-wrap">
-                    <div class="team-photo-bg _2">
-                        <div class="team-photo _2"></div>
-                    </div>
-                    <div class="team-member-name-title">
-                        <h4 class="team-member-name">Madison Freddie</h4>
-                        <p class="team-member-title">Co-founder + Writer</p>
-                        <a href="#" class="link read-bio w-inline-block">
-                            <div class="pink-text">Read Bio</div>
-                        </a>
-                    </div>
-                </div>
-
             </div>
         </div>
         <div class="absolutee-div-team"></div>

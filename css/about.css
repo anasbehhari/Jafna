@@ -92,8 +92,7 @@ a{text-decoration:none;}
 .pink-text{color:#fda310;}
 .team-member-title{color:#bdbdbd;text-align:left;}
 .white{color:#fff;}
-.hero-image{position:absolute;left:0%;top:0%;right:0%;bottom:0%;background-image:url("http://localhost:2001/BehBlog/content/images/background.png");background-position:50% 50%;background-size:cover;opacity:0.15;}
-.hero-image.about{background-image:url("https://assets.website-files.com/60ebe0c311556d49bb498885/60ebf189b10fcba6203a1d49_sarah-doffman-v9Q-I6rnwQk-unsplash%20(1).jpg");opacity:0.1;}
+.hero-image{position:absolute;left:0%;top:0%;right:0%;bottom:0%;background-image:url("../content/images/background.png");background-position:50% 50%;background-size:cover;opacity:0.15;}
 .max-650{max-width:650px;}
 .align-center{text-align:center;}
 ._40px-w-div{width:40px;height:40px;}
